@@ -192,11 +192,13 @@ SR FLIPFLOP:
 
 JK FLIPFLOP:
 
-![image](https://github.com/hemakaruna/VLSI-LAB-EXP-4/assets/160728787/f563cf8c-71f7-4f0c-b6ef-3bbff112306f)
+![image](https://github.com/hemakaruna/VLSI-LAB-EXP-4/assets/160728787/fb159dfc-d9b9-4f6a-8737-174c5fcb7bd1)
+
 
 T FLIPFLOP:
 
-![image](https://github.com/hemakaruna/VLSI-LAB-EXP-4/assets/160728787/88345f7c-0d89-494e-b4de-21f9cd095409)
+![image](https://github.com/hemakaruna/VLSI-LAB-EXP-4/assets/160728787/186fe18b-e694-4f33-a89d-62e507b17baf)
+
 
 D FLIPFLOP:
 
